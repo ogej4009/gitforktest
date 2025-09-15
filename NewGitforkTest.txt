@@ -6,4 +6,4 @@ hi gitfork NTMU
 
 			-> gitfork branch test commit		-> br : -test commit
 
-		
+				-> gitfork branch add test br2
