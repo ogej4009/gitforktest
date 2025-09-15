@@ -3,3 +3,7 @@ hi gitfork NTMU
 	- 2 gitfork test start
 
 		- 3 gitfork test start push
+
+			-> gitfork branch test commit		-> br : -test commit
+
+		- 4 gitfork main go -----
